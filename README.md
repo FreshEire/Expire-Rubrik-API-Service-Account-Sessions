@@ -2,7 +2,7 @@
 
 ## Purpose of the script
 
-When working with service account within Rubrik there are a max sexxion count of 10 allowed. If sessions are not closed when using service accounts then the following error will likely be encountered.
+When working with Service Accounts within Rubrik there are a max session count of 10 allowed. If sessions are not closed when using service accounts then the following error will likely be encountered.
 
 *{"errorType":"user_error","message":"Max of 10 API Tokens reached.","cause":null}*
 
