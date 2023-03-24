@@ -18,7 +18,7 @@ As best practice sessions should be closed at the end of scripts. This script sh
 
 1. A temporary API token:
 `https://<RUBRIK_IP>/web/bin/index.html#/api_tokens`
-This token is required each time the script is ran
-The token needs to be create by a user with the role: *AdministratorRole*
+    - This token is required each time the script is ran
+    - The token needs to be create by a user with the role: *AdministratorRole*
 
 2. IP adress of the Rubrik cluster where the service account resides
